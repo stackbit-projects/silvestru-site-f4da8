@@ -13,7 +13,7 @@ excerpt: >-
   magnitudine obruebantur. Duo Reges: constructio interrete.
 thumb_image: images/24291534_1932956190301943_2136604532344810714_o.jpg
 thumb_image_alt: Post 1 placeholder image
-image: images/classic/post-1.png
+image: images/24291534_1932956190301943_2136604532344810714_o.jpg
 image_alt: Post 1 placeholder image
 image_position: right
 layout: post
