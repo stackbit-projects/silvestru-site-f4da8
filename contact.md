@@ -42,7 +42,7 @@ sections:
           - label: Get Support
             url: /general-enquiries
             style: secondary
-            has_icon: true
+            has_icon: false
             icon: arrow-right
             icon_position: right
         actions_align: center
