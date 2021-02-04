@@ -5,7 +5,7 @@ sections:
     title: >-
       Helping software and tech companies with high-impact copy and strategy
       that gets attention, interest and sales
-    subtitle: Optional hero section subtitle
+    subtitle: ''
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
