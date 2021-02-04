@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: I'm a B2B Software Copywriter
+    title: >-
+      Helping software and tech companies with high-impact copy and strategy
+      that gets attention, interest and sales
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
