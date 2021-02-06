@@ -2,9 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: >-
-      Helping software and tech companies with high-impact copy and strategy
-      that gets attention, interest and sales
+    title: ''
     subtitle: ''
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
