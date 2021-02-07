@@ -13,7 +13,7 @@ sections:
       - label: View Services
         url: /pricing
         style: primary
-      - label: Learn More
+      - label: Give Me Money
         url: /features
         style: secondary
     image: images/avatar_trnsprnt2.png
