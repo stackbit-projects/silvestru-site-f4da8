@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: ''
+    title: 'I only want your money... wait, no, I''m usually good with words'
     subtitle: ''
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
