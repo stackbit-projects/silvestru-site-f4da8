@@ -30,7 +30,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
-      - title: HaHAHahaHAaaaa drugs are fun
+      - title: '"HaHAHahaHAaaaa what is this pill u gave me????"'
         subtitle: 'But, no, seriously, I wouldn''t recommend them'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
