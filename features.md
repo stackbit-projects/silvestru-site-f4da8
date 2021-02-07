@@ -9,7 +9,7 @@ sections:
     features:
       - title: Cold mail & email
         subtitle: >-
-          Get your foot in the door while wearing fuzzy pink slippers with
+          Get your foot in the door... wearing fuzzy pink slippers with steel
           reinforced soles
         content: >
           Your prospects are inundated with shitty pitches all day long. Do you
