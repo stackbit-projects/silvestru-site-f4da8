@@ -8,7 +8,7 @@ sections:
       coherent pitch here.
     content: >
       Look, I swear I've done this before. There's many things I can do for
-      money (using words). Depends on what you need.  How about you view my
+      money (with words). Depends on what you need.  How about you view my
       services?
     actions:
       - label: View Services
