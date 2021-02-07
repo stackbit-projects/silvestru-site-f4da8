@@ -6,9 +6,9 @@ sections:
     subtitle: >-
       Christ, they say first impressions are important and I can't even string a
       coherent pitch here.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Instead of spitting hyperbole and inane terms that every copywriter and
+      his dog sling, how about you view my services?
     actions:
       - label: Try Free
         url: /pricing
