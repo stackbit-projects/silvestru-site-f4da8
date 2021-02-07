@@ -31,7 +31,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: '"HaHAHahaHAaaaa what is this pill u gave me????"'
-        subtitle: 'But, no, seriously, I wouldn''t recommend them'
+        subtitle: 'Though seriously, I wouldn''t recommend it.'
         content: >
           I tried the Don Draper thing for a while. It was fun until it wasn't.
           Now I do all my work sober. If I hate the project (or you) so much
