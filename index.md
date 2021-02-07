@@ -7,8 +7,9 @@ sections:
       Christ, they say first impressions are important and I can't even string a
       coherent pitch here.
     content: >
-      Instead of hyperbole and inane terms that every copywriter and his dog put
-      on their front-pages, how about you view my services?
+      Look, I swear I've done this before. There's many things I can do for
+      money (using words). Depends on what you need.  How about you view my
+      services?
     actions:
       - label: View Services
         url: /pricing
