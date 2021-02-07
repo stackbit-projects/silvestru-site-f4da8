@@ -32,10 +32,12 @@ sections:
         media_width: fifty
       - title: '"HaHAHahaHAaaaa what is this pill u gave me????"'
         subtitle: 'But, no, seriously, I wouldn''t recommend them'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          I tried the Don Draper thing for a while. It was fun until it wasn't.
+          Now I do all my work sober. If I hate the project (or you) so much
+          that I have to imbibe substances to "get in the flow" we probably
+          won't work together. Not being elitist, just putting it out there.
+          Note to self: this might be an admission that I do have *some* values.
         image: images/about-1.jpg
         image_alt: Happy co-workers
         media_position: right
