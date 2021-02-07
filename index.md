@@ -7,8 +7,8 @@ sections:
       Christ, they say first impressions are important and I can't even string a
       coherent pitch here.
     content: >
-      Instead of spitting hyperbole and inane terms that every copywriter and
-      his dog sling, how about you view my services?
+      Instead of hyperbole and inane terms that every copywriter and his dog put
+      on their front-pages, how about you view my services?
     actions:
       - label: Try Free
         url: /pricing
