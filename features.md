@@ -30,7 +30,7 @@ sections:
           gyroscope; picture-in-picture" allowfullscreen></iframe>
         media_position: left
         media_width: fifty
-      - title: Section Title Three
+      - title: HaHAHahaHAaaaa drugs are fun
         subtitle: 'Donec nisl ligula, cursus id molestie vel. '
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
