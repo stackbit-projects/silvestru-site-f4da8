@@ -9,10 +9,12 @@ sections:
     features:
       - title: Cold mail & email
         subtitle: 'Odio et tortor laoreet, sed interdum augue ornare.'
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Your prospects are inundated with shitty pitches all day long. Do you
+          know how many emails the average CEO gets, from complete schmucks that
+          want to get their limited time, attention and money? One too many. But
+          you don't have to end up in spam - if you're smart (and give me money
+          instead)
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
