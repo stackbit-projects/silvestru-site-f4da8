@@ -8,7 +8,9 @@ sections:
   - type: features_section
     features:
       - title: Cold mail & email
-        subtitle: 'Odio et tortor laoreet, sed interdum augue ornare.'
+        subtitle: >-
+          Get your foot in the door while wearing fuzzy pink slippers with
+          reinforced soles
         content: >
           Your prospects are inundated with shitty pitches all day long. Do you
           know how many emails the average CEO gets, from complete schmucks that
