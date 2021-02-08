@@ -50,8 +50,17 @@ sections:
         media_width: fifty
       - title: Sales Pages
         subtitle: Pages that have sales on them
-        content: |
-          Yep I do those too.
+        content: >
+          Technically, "everything" is a sales page. In practice however, these
+          tend to be the type of pages that are seen by people already somewhat
+          familiar with your company or at least they have clicked on a very
+          enticing banner expecting more carrot. Clever!
+
+
+          But now the real heavy duty begins: presenting your story, your
+          product, its benefits, answering objections -- all structured in a way
+          that doesn't make them switch midway while reading to check Facebook
+          and go to lunch and forget about you.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
