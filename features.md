@@ -48,17 +48,8 @@ sections:
         media_width: fifty
       - title: Sales Pages
         subtitle: Pages that have sales on them
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Yep I do those too.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
