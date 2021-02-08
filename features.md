@@ -24,10 +24,10 @@ sections:
       - title: Hot emails
         subtitle: Already have a subscriber base? Give 'em hotcakes
         content: >
-          Do you have an email list but ask yourself questions such as: what do
-          I send them? why are they not reading/acting on what I send them? will
-          they not unsubscribe after this one? how do I structure an email
-          campaign efficiently?
+          Do you have an email list but ask yourself questions such as: **what
+          do I send them? why are they not reading/acting on what I send them?
+          will they not unsubscribe after this one? how do I structure an email
+          campaign efficiently?**
 
 
           Have no fear, Silvestru "Hot Emails Copywriter" is here! (Jesus we're
