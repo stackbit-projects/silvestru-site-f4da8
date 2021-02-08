@@ -47,7 +47,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Sales Pages
-        subtitle: lorem-ipsum
+        subtitle: Pages that have sales on them
         content: >-
           ## Lorem ipsum
 
