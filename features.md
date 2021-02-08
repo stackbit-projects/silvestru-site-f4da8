@@ -30,6 +30,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fifty
+        image: images/terrific-sloth.jpg
       - title: '"HaHAHahaHAaaaa what is this pill u gave me????"'
         subtitle: 'Though seriously, I wouldn''t recommend it.'
         content: >
