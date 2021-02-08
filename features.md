@@ -59,8 +59,9 @@ sections:
 
           But now the real heavy duty begins: presenting your story, your
           product, its benefits, answering objections -- all structured in a way
-          that doesn't make them switch midway while reading to check Facebook
-          and go to lunch and forget about you.
+          that keeps them hooked and engaged so that when they check Facebook or
+          what their dog is doing on their home webcam, they come back to resume
+          reading all about your enticing offer.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
