@@ -23,10 +23,15 @@ sections:
         media_width: fifty
       - title: Hot emails
         subtitle: Already have a subscriber base? Give 'em hotcakes
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Do you have an email list but ask yourself questions such as: what do
+          I send them? why are they not reading/acting on what I send them? will
+          they not unsubscribe after this one? how do I structure an email
+          campaign efficiently?
+
+
+          Have no fear, Silvestru "Hot Emails Copywriter" is here! (Jesus we're
+          really scraping the barrel here)
         video_embed_html: ''
         media_position: left
         media_width: fifty
