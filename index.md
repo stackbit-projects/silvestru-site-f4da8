@@ -7,9 +7,9 @@ sections:
       Christ, they say first impressions are important and I can't even string a
       coherent pitch here.
     content: >
-      Look, I swear I've done this before. There's many things I can do for
-      money (with words). Depends on what you need.  How about you view my
-      services?
+      Look, I swear I've done this before. And by "done this before" I mean
+      write marketing materials for B2B companies. It would be clearer if you
+      viewed my services.
     actions:
       - label: View Services
         url: /pricing
