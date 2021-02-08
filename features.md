@@ -22,7 +22,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Hot emails
-        subtitle: 'In fermentum odio et tortor laoreet, sed interdum augue ornare. '
+        subtitle: Already have a subscriber base? Give 'em hotcakes
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
