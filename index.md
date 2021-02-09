@@ -12,7 +12,7 @@ sections:
       it will be less awkward. Promise.
     actions:
       - label: View Services
-        url: /pricing
+        url: /services
         style: primary
       - label: Give Me Money
         url: /features
