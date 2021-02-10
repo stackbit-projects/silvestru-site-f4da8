@@ -7,8 +7,8 @@ sections:
       Christ, they say first impressions are important and I can't even string a
       coherent pitch here.
     content: >
-      I write marketing materials for B2B companies that want to stand out. Want
-      to view my services?
+      I write marketing materials for B2B companies that want to be efficient
+      and stand out. Want to view my services?
     actions:
       - label: View Services
         url: /services
