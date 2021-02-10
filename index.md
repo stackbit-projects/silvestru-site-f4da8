@@ -8,8 +8,8 @@ sections:
       coherent pitch here.
     content: >
       Look, I swear I've done this before. And by "done this before" I mean
-      write marketing materials for B2B companies. If you click "View Services"
-      it will be less awkward. Promise.
+      write marketing materials for B2B companies. Why don't you view my
+      services?
     actions:
       - label: View Services
         url: /services
