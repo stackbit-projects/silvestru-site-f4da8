@@ -3,6 +3,8 @@ title: About
 excerpt: lorem-ipsum
 layout: page
 ---
+**“I Swear to Tell the Truth, the Whole Truth and Nothing But the Truth So Help Me God”**
+
 The only reason I got into copywriting was for the money.
 
 Oops, did I say that out loud?
