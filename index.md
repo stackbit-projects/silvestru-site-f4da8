@@ -7,8 +7,8 @@ sections:
       Christ, they say first impressions are important and I can't even string a
       coherent pitch here.
     content: >
-      Look, I swear I've done this before. And by "done this before" I mean
-      write marketing materials for B2B companies. Why don't you view my
+      Look, I swear I've done this before. There are many types of marketing
+      materials that I have written for B2B companies. Why don't you view my
       services?
     actions:
       - label: View Services
