@@ -3,107 +3,30 @@ title: Style Guide
 excerpt: lorem-ipsum
 layout: page
 ---
+The only reason I got into copywriting was for the money.
 
-This is a paragraph. Malesuada bibendum arcu vitae elementum curabitur vitae nunc sed. Fringilla urna porttitor rhoncus dolor purus. Consectetur purus ut faucibus pulvinar. Nullam non nisi est sit. Tellus in metus vulputate eu scelerisque felis. Nunc congue nisi vitae suscipit tellus mauris. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Fermentum iaculis eu non diam phasellus vestibulum. Faucibus turpis in eu mi bibendum neque egestas congue.
+Oops, did I say that out loud?
 
-# This is an H1
-## This is an H2
-### This is an H3
-#### This is an H4
-##### This is an H5
-###### This is an H6
+Yep.
 
-## Quoting
+Let me unpack that and show you how this is actually good for you:
 
-Nullam hendrerit dictum vehicula. Nunc nec tortor et dui vestibulum venenatis. Donec mattis ligula ac efficitur lacinia.
+When I was a starving arts student in 2012, I stumbled upon the world of direct-response copywriting.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Donec pretium vulputate sapien nec sagittis aliquam. Turpis massa sed elementum tempus egestas sed sed. Orci a scelerisque purus semper eget duis at tellus at. Lacus luctus accumsan tortor posuere ac. 
+As the name implies, DR copy is all about getting the response - doing *only what works*.
 
-> Ipsum dolor sit amet consectetur adipiscing elit ut aliquam purus. Ultrices sagittis orci a scelerisque purus semper eget duis. Pharetra pharetra massa massa ultricies. Felis eget nunc lobortis mattis aliquam.
+Doing what works is not always common sense. Or “nice”. Or “decent”.
 
-In cursus turpis massa tincidunt. Tempor nec feugiat nisl pretium. Odio aenean sed adipiscing diam. Ut aliquam purus sit amet luctus venenatis lectus magna fringilla. Justo laoreet sit amet cursus sit amet dictum. Turpis tincidunt id aliquet risus feugiat in ante metus.
+In fact, the more education degrees one has, the higher probability that “what works” might seem like utter insanity… TO YOU.
 
-In non tempus urna, non blandit nisl. Phasellus aliquam, tellus et lobortis dictum, justo turpis placerat est, sed luctus nunc elit eu odio. Phasellus imperdiet, nulla a elementum tempor, nisi elit tincidunt dolor, eget venenatis metus libero et elit.
+To the market which that direct-response message is directed however - that kind of insanity often pays dividends.
 
-Vivamus tempus ornare urna, eget imperdiet quam venenatis ac. Donec fermentum massa id aliquet vulputate. Nam vestibulum ornare est, sed tincidunt mauris interdum a. In hac habitasse platea dictumst. Pellentesque sit amet arcu sed risus vehicula fermentum sit amet a neque. Sed imperdiet lacinia magna sit amet dapibus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean non purus a quam placerat luctus. Proin orci risus, lobortis ut dictum at, gravida at nulla. 
+It’s like real-life: people *say* they read the Bible (and it rates #1 consistently in polls over time).
 
-## Unordered and Ordered Lists
+However *actual sales data* shows that goldies like the National Enquirer and Playboy continue to be top sellers (admitedly a dated example - just imagine I have a 70s moustache and wearing disco pants).
 
-+ Donec non tortor in arcu mollis feugiat
-+ Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-+ Donec id eros eget quam aliquam gravida
-+ Vivamus convallis urna id felis
-+ Nulla porta tempus sapien
+A winning ad begins with deep, “X-Files Agent Mulder”-like research, poking and prodding.
 
-***
+But even if you have done the research and have a great product - do you know what to do next? Do you know how to communicate in a way that is efficient, makes you stand out and helps you get the sale?
 
-1. Donec non tortor in arcu mollis feugiat
-2. Lorem ipsum dolor sit amet, consectetuer adipiscing elit
-3. Donec id eros eget quam aliquam gravida
-4. Vivamus convallis urna id felis
-5. Nulla porta tempus sapien
-
-## Code Blocks
-
-Blocks of code are either fenced by lines with three back-ticks, or are indented with four spaces.
-
-```
-let sequence = [1, 1, 2, 3, 5, 8, 13];
-for (let i = 0; i < sequence.length; i++) {
-  console.log(sequence[i]);
-}
-```
-
-## Inline Elements
-
-Emphasis, aka italics, with *asterisks* or _underscores_.
-
-Strong emphasis, aka bold, with **asterisks** or __underscores__.
-
-Combined emphasis with **asterisks and _underscores_**.
-
-Strikethrough uses two tildes. ~~Scratch this.~~
-
-Inline `code` with `back-ticks around` it.
-
-This is <mark>marked or highlighted</mark> text.
-
-This is [an example](http://example.com) link.
-
-## Tables
-
-<div class="responsive-table">
-  <table>
-      <caption>Table with thead, tfoot, and tbody</caption>
-    <thead>
-      <tr>
-        <th>Header content</th>
-        <th>Header content</th>
-        <th>Header content</th>
-        <th>Header content</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
-      <tr>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-        <td>Body content</td>
-      </tr>
-    </tbody>
-    <tfoot>
-      <tr>
-        <td>Footer content</td>
-        <td>Footer content</td>
-    <td>Footer content</td>
-    <td>Footer content</td>
-      </tr>
-    </tfoot>
-  </table>
-</div>
+If you’ve read this far I’m assuming that you need some kind of help in this regard. Send me a message and let’s see if there’s a way for me to take your money… and help you make more in return ;)
