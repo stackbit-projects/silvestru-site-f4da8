@@ -8,7 +8,7 @@ sections:
       coherent pitch here.
     content: >
       I write marketing materials for B2B companies that want to be efficient
-      and stand out. Want to view my services?
+      and stand out. Want to know more?
     actions:
       - label: View Services
         url: /services
