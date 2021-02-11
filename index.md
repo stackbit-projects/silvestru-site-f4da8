@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: I only want your money...
-    subtitle: 'No, seriously give me your money.'
+    subtitle: 'No, seriously, give me your money.'
     content: >
       Oh you want a reason to give me money? Fine. I write marketing materials
       and content that stands out, gets you remembered and - most importantly -
