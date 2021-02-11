@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: 'I only want your money... wait, no, I''m usually good with words'
+    title: I only want your money...
     subtitle: >-
       Christ, they say first impressions are important and I can't even string a
       coherent pitch here.
