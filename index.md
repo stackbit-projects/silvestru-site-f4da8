@@ -7,9 +7,12 @@ sections:
     content: >
       Oh you want a reason to give me money? Fine. I write marketing materials
       and content that stands out, gets you remembered and - most importantly -
-      gets you the sale. If you click "View Services" your willpower will erode
-      until out of sheer desperation you give me your money. Might as well give
-      it to me directly. Your choice.
+      gets you the sale.
+
+
+      Don't click "View Services" as your willpower will erode until out of
+      sheer desperation you will be forced to give me your money. Might as well
+      do it the easy way. What will it be?
     actions:
       - label: View Services
         url: /services
