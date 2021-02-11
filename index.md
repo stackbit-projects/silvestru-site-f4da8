@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: I only want your money...
-    subtitle: >-
-      Christ, they say first impressions are important and I can't even string a
-      coherent pitch here.
+    subtitle: 'No, seriously give me your money.'
     content: >
       The gist: I write marketing materials for B2B companies that want to be
       efficient and stand out. Want to know more?
