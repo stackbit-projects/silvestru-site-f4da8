@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Services
-    subtitle: "If money and words are involved... \U0001F92E"
+    subtitle: Convenient ways to take (your) money
     background_color: primary
   - type: features_section
     features:
