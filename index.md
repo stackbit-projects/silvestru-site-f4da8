@@ -5,8 +5,10 @@ sections:
     title: I only want your money...
     subtitle: 'No, seriously give me your money.'
     content: >
-      The gist: I write marketing materials for B2B companies that want to be
-      efficient and stand out. Want to know more?
+      Oh you want a reason to give me money? Fine. I write marketing materials
+      and content that stands out, gets you remembered and - most importantly -
+      gets you the sale. Don't click "View Services" as you'll lose all
+      conscious control. You've been warned.
     actions:
       - label: View Services
         url: /services
