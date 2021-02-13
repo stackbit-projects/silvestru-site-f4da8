@@ -16,7 +16,7 @@ sections:
           what happens to 99% of those emails?
 
 
-          Spam. Trash. "Please stop emailing me". Or simply forgotten.
+          Spam. Trash. "Please stop emailing me". Or simply ignored.
 
 
           The way to get a decision-maker's attention and their reply is not by
