@@ -12,11 +12,16 @@ sections:
           Get your foot in the door... wearing fuzzy pink slippers with steel
           reinforced soles
         content: >
-          Your prospects are inundated with shitty pitches all day long. Do you
-          know how many emails the average CEO gets, from complete schmucks that
-          want to get their limited time, attention and money? One too many. But
-          you don't have to end up in spam - if you're smart (and give me money
-          instead)
+          Do you know how many pitch emails the average CxO gets? Do you know
+          what happens to 99% of those emails?
+
+
+          Spam. Trash. "Please stop emailing me". Or simply forgotten.
+
+
+          The way to get a decision-maker's attention and their reply is not by
+          doing what everyone else is doing. There is a better way to get your
+          foot in the door.
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
