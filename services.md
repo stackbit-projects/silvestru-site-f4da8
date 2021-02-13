@@ -9,8 +9,8 @@ sections:
     features:
       - title: Cold mail & email
         subtitle: >-
-          Get your foot in the door... wearing fuzzy pink slippers with steel
-          reinforced soles
+          Get your foot in the door... wearing fuzzy pink slippers with
+          steel-reinforced soles
         content: >
           Do you know how many pitch emails the average CxO gets? Do you know
           what happens to 99% of those emails?
