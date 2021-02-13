@@ -13,7 +13,7 @@ I’m not here to save the world.
 
 Frankly, I don’t think the world needs saving.
 
-**\*audience gasps\***
+**\*gasp\***
 
 What I am interested in is facing the music.
 
