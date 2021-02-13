@@ -5,30 +5,34 @@ layout: page
 ---
 **“I Swear to Tell the Truth, the Whole Truth and Nothing But the Truth So Help Me God”**
 
-The only reason I got into copywriting was for the money.
+The primary reason I’m doing this is for the money.
 
-Oops, did I say that out loud?
+The secondary reason I’m doing it is because I’m fascinated by the paradox of what people ***say*** they want… and what they actually ***do***.
 
-Yep.
+I’m not here to save the world.
 
-Let me unpack that and show you how this is actually good for you:
+Frankly, I don’t think the world needs saving.
 
-When I was a starving arts student in 2012, I stumbled upon the world of direct-response copywriting.
+**\*audience gasps\***
 
-As the name implies, DR copy is all about getting the response - doing *only what works*.
+What I am interested in is facing the music.
 
-Doing what works is not always common sense. Or “nice”. Or “decent”.
+To dive deep and go the whole hog.
 
-People *say* they read the Bible (and it rates #1 consistently in polls over time).
+To ask questions such as “is this really the most efficient way to do it?... or am I just laying on my biases on how the world SHOULD be and not HOW IT IS”.
 
-However *actual sales data* shows that goldies like the National Enquirer and Playboy continue to be top sellers (admittedly a dated example - just imagine I have a 70s moustache and wearing disco pants).
+“How it is” is not always pretty and wearing a unicorn hat.
 
-The point is, what works is not always readily apparent.
+But it works.
 
-How to find out?
+You may not agree with it, you may even hate it - but it works.
 
-It all begins with deep, “X-Files”-like research, poking and prodding.
+Shitty is pretty.
 
-But even if you have done the research and have a great product - do you know what to do next? Do you know how to communicate in a way that is efficient, makes you stand out and helps you get the sale?
+Proof is in the pudding.
 
-If you’ve read this far I’m assuming that you need some kind of help in this regard. Send me a message and let’s see if there’s a way for me to take your money… and help you make more in return ;)
+Do the work... so you can gorge yourself with tasty, high-calorie, pie.
+
+If you too are on such a mad man’s quest, then it could prove fruitful for us to talk - and who knows, maybe even do things together.
+
+If this resonates, don’t hesitate, get in touch.
