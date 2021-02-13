@@ -5,14 +5,11 @@ sections:
     title: I only want your money...
     subtitle: 'No, seriously, give me your money.'
     content: >
-      Oh you want a reason to give me money? Fine. I write marketing materials
-      and content that stands out, gets you remembered and - most importantly -
-      gets you the sale.
+      Oops, looks like my filters went off. What I meant to say is...
 
 
-      Don't click "View Services" as your willpower will erode until out of
-      sheer desperation you will be forced to give me your money. Might as well
-      do it the easy way. What will it be?
+      **I write marketing materials and content that stands out, gets you
+      remembered and - most importantly - gets you the sale.**
     actions:
       - label: View Services
         url: /services
