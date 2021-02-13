@@ -5,8 +5,7 @@ sections:
     title: I only want your money...
     subtitle: I'm not even joking.
     content: >
-      Oops, looks like my filters went off. But if you want an actual reason to
-      do so...
+      What's what? You want a reason to do so? Fine.
 
 
       **I write marketing materials and content that stands out, gets you
