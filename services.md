@@ -21,7 +21,7 @@ sections:
 
           The way to get a decision-maker's attention and their reply is not by
           doing what everyone else is doing. There is a better way to get your
-          foot in the door.
+          foot in the door (ask me).
         image: images/about-3.jpg
         image_alt: Top view of business meeting
         media_position: right
