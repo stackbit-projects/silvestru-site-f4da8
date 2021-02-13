@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: I only want your money...
-    subtitle: I wish I was joking.
+    subtitle: I'm not even joking.
     content: >
       Oops, looks like my filters went off. But if you want an actual reason to
       do so...
