@@ -5,15 +5,15 @@ sections:
     title: I only want your money...
     subtitle: 'No, seriously, give me your money.'
     content: >
-      Oops, looks like my filters went off. If you want an actual reason to do
-      so then it's this:
+      Oops, looks like my filters went off. But if you want an actual reason to
+      do so...
 
 
       **I write marketing materials and content that stands out, gets you
       remembered and - most importantly - gets you the sale.**
 
 
-      Interested? Choose which way you want to do this.
+      Interested? Choose which way you want to do this:
     actions:
       - label: View Services
         url: /services
