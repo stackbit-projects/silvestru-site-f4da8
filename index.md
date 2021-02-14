@@ -69,12 +69,16 @@ sections:
         image_alt: Grant Blackwood
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          "This guy knows what he's doing. This guy is very reliable. I have
+          hired Silvestru in the past to help me come up with a concept,
+          storyboard and copy for a client's video. It wasn't a small project
+          and I had nine (paid) people send me their initial drafts. His
+          concepts stood out and he was very easy to work with. I only proposed
+          the top three concepts to the clients and Silvestru's work was in it."
 
 
-          **Gordon Norman,** *Web Designer, Studio*
+          **Igor Vukojevic,** *CEO, Veden Media*
         image: images/igor.jpg
         image_alt: Igor Vukojevic
         image_position: left
