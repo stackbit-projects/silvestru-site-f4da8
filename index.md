@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: I only want your money...
+    title: This website is designed to squeeze you of your money
     subtitle: I'm not even joking.
     content: >
       What's what? You want a reason to do so? Fine.
