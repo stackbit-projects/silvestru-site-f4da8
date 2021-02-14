@@ -117,7 +117,7 @@ sections:
         image: images/devilish.png
         image_position: top
       - title: Silvestru Iapascurta
-        subtitle: C
+        subtitle: Copy Chief
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
