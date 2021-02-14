@@ -12,7 +12,7 @@ sections:
       remembered and - most importantly - gets you the sale.**
 
 
-      Interested? There's 2 ways: my way or the highway.
+      Interested? There's 2 ways to proceed: my way or the highway.
     actions:
       - label: View Services
         url: /services
