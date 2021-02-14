@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: This website is designed to squeeze you of your money
-    subtitle: I'm not even joking.
+    subtitle: Did you expect anything less from a copywriter?
     content: >
       What's what? You want a reason to do so? Fine.
 
