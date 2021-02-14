@@ -28,9 +28,8 @@ sections:
     padding_top: small
     padding_bottom: none
     background_color: primary
-  
   - type: grid_section
-    title: Reviews Section
+    title: Testimonials
     subtitle: Grid Section Example
     grid_items:
       - content: >-
