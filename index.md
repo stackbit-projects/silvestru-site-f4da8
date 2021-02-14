@@ -111,7 +111,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: urtsevliS
+      - title: urtsevliS Gustaffson
         subtitle: Co-Founder & CEO
         title_align: center
         image: images/devilish.png
