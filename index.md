@@ -119,7 +119,7 @@ sections:
       - title: Silvestru Iapascurta
         subtitle: Copy Chief
         title_align: center
-        image: images/dianne-ameter.jpg
+        image: images/regular.png
         image_position: top
       - title: Hugh Saturation
         subtitle: Developer Advocate
