@@ -65,7 +65,7 @@ sections:
 
 
           **Eleanor Carr,** *CTO, Studio*
-        image: images/eleanor-carr.png
+        image: images/grant.jpg
         image_alt: Grant Blackwood
         image_position: left
         image_width: twenty-five
