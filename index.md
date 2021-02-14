@@ -75,7 +75,7 @@ sections:
           storyboard and copy for a client's video. It wasn't a small project
           and I had nine (paid) people send me their initial drafts. His
           concepts stood out and he was very easy to work with. I only proposed
-          the top three concepts to the clients and Silvestru's work was in it."
+          the top three concepts to the client and Silvestru's work was in it."
 
 
           **Igor Vukojevic,** *CEO, Veden Media*
