@@ -112,7 +112,7 @@ sections:
         style: primary
     grid_items:
       - title: urtsevliS Gustaffson
-        subtitle: Co-Founder & CEO
+        subtitle: Accounting
         title_align: center
         image: images/devilish.png
         image_position: top
