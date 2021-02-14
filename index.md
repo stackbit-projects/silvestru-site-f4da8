@@ -56,7 +56,7 @@ sections:
           **Ollie Roddy,** *Marketing and Business Development Manager, Catalyst
           Marketing*
         image: images/ollie.jpg
-        image_alt: Miles Tone
+        image_alt: Ollie Roddy
         image_position: left
         image_width: twenty-five
       - content: >
