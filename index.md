@@ -30,7 +30,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Testimonials
-    subtitle: People I have conned into giving me money
+    subtitle: People I have somehow talked into giving me money
     grid_items:
       - content: >
           "I'm not going to weigh in on the controversy here, but I would like
