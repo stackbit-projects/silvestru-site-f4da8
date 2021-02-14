@@ -30,7 +30,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Testimonials
-    subtitle: Grid Section Example
+    subtitle: I can't believe they actually said that...
     grid_items:
       - content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
