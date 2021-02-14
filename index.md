@@ -47,12 +47,14 @@ sections:
         image_alt: Jason Keith
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          "Very easy to work with, understood the brief and listened to our
+          feedback. I would definitely recommend working with Silvestru - a
+          great writer and a great guy, too."
 
 
-          **Miles Tone,** *CEO, Studio*
+          **Ollie Roddy,** *Marketing and Business Development Manager, Catalyst
+          Marketing*
         image: images/miles-tone.png
         image_alt: Miles Tone
         image_position: left
