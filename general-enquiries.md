@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Contact
-    subtitle: So you've decided to part with your money...
+    subtitle: '"If you gaze long into an abyss, the abyss also gazes into you"'
     align: center
     padding_top: medium
     padding_bottom: medium
