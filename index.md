@@ -5,14 +5,14 @@ sections:
     title: This website is designed to squeeze you of your money
     subtitle: Did you expect anything less from a copywriter?
     content: >
-      What's what? You want a reason to do so? Fine.
+      If you want the civilized version it's that...
 
 
       **I write marketing materials and content that stands out, gets you
       remembered and - most importantly - gets you the sale.**
 
 
-      Interested? Choose which way you want to do this:
+      Interested? There's 2 ways: my way or the highway.
     actions:
       - label: View Services
         url: /services
