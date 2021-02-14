@@ -117,7 +117,7 @@ sections:
         image: images/devilish.png
         image_position: top
       - title: Silvestru Iapascurta
-        subtitle: Software Engineer
+        subtitle: C
         title_align: center
         image: images/dianne-ameter.jpg
         image_position: top
