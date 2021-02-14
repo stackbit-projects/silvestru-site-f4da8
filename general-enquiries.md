@@ -9,18 +9,25 @@ sections:
     padding_bottom: medium
     background_color: none
   - type: form_section
-    content: >-
-      ### Billing
+    content: >
+      ### Woah, slow down Dorothy
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
 
-      ### Privacy
+      If you want my help taking other people’s money, I want to know more about
+      you first.
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+
+      I want to know if I like you and if I can work with you. Unless you’re
+      selling arsenic disguised as children’s food, I don’t care that much about
+      your product - well I do, but it’s not the most important thing.
+
+
+      Let me know about yourself, your project, why you want to do it and how
+      you imagine me contributing to it. I will do my best to reply within 48
+      hours.
+
+
+      Thank you!
     content_align: left
     form_position: right
     form_width: fifty
