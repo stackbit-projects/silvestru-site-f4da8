@@ -76,7 +76,7 @@ sections:
 
           **Gordon Norman,** *Web Designer, Studio*
         image: images/gordon-norman.png
-        image_alt: Gordon Norman
+        image_alt: Igor Vukojevic
         image_position: left
         image_width: twenty-five
     grid_cols: two
