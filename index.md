@@ -111,7 +111,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: urtsevliS Gustaffson
+      - title: urtsevliS Guzquxab
         subtitle: Accounting & Manipulation
         title_align: center
         image: images/devilish.png
