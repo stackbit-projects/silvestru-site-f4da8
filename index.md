@@ -59,12 +59,12 @@ sections:
         image_alt: Miles Tone
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          "Worked with Silvestru Iapascurta on a couple of projects. He writes
+          solid copy and always meets deadlines. Highly recommended."
 
 
-          **Eleanor Carr,** *CTO, Studio*
+          **Grant Blackwood,** *Entrepreneur*
         image: images/grant.jpg
         image_alt: Grant Blackwood
         image_position: left
