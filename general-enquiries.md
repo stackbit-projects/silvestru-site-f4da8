@@ -3,7 +3,7 @@ title: General enquiries
 sections:
   - type: hero_section
     title: Contact
-    subtitle: The optional subtitle
+    subtitle: So you've decided to part with your money...
     align: center
     padding_top: medium
     padding_bottom: medium
