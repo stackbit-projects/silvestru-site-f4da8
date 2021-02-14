@@ -33,13 +33,13 @@ sections:
     subtitle: People I have conned into giving me money
     grid_items:
       - content: >
-          I'm not going to weigh in on the controversy here, but I would like to
-          put in a good word for Silvestru. I hired him last month for a VSL
+          "I'm not going to weigh in on the controversy here, but I would like
+          to put in a good word for Silvestru. I hired him last month for a VSL
           project and I'm very pleased with the results. Not only did he deliver
           exactly what I asked, he also came through with recommendations on how
           to improve the product to maximize conversions. He's a talented dude
           who follows through on promises, communicates regularly and delivers
-          on time. I'm looking forward to our next project together.
+          on time. I'm looking forward to our next project together."
 
 
           **Jason Keith,** *CEO, Patriot Publications*
