@@ -116,7 +116,7 @@ sections:
         title_align: center
         image: images/devilish.png
         image_position: top
-      - title: Dianne Ameter
+      - title: Silvestru Iapascurta
         subtitle: Software Engineer
         title_align: center
         image: images/dianne-ameter.jpg
