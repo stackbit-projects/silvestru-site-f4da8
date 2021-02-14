@@ -3,36 +3,42 @@ title: About
 excerpt: lorem-ipsum
 layout: page
 ---
-**“I Swear to Tell the Truth, the Whole Truth and Nothing But the Truth So Help Me God”**
+If you're looking for some grand mission statement, you've got the wrong person, bud.
 
-The primary reason I’m doing this is for the money.
+I'm not here to save the world.
 
-The secondary reason I’m doing it is because I’m fascinated by the paradox of what people ***say*** they want… and what they actually ***do***.
+Frankly, I don't even know if it's worth saving.
 
-I’m not here to save the world.
+**HOWEVER**
 
-Frankly, I don’t think the world needs saving.
+If I may be so blunt, me being interested in money only is actually a good thing for you...
 
-**\*gasp\***
+Here's why:
 
-What I am interested in is facing the music.
+I don't shy away from doing what works, even if that sometimes involves getting a little dirty.
 
-To dive deep and go the whole hog.
+How dirty?
 
-To ask questions such as “is this really the most efficient way to do it?... or am I just laying on my biases on how the world SHOULD be and not HOW IT IS”.
+Depends on the job and how deep the hole I'm digging.
 
-“How it is” is not always pretty and wearing a unicorn hat.
+Like that one time when I was broke in London and I was cleaning an old lady's house.
 
-But it works.
+Her decrepit arthritic 70 year old husband came up to me one day and said
 
-You may not agree with it, you may even hate it - but it works.
+*"What da ya reckon laddy, will you give me a wash too?"*
 
-Shitty is pretty.
+*"Well Sir, if the price is right ;))))"* I told him in my best American huckster tone, as I proceeded to vomit a little on the inside.
 
-Proof is in the pudding.
+So... if you've got a project, why don't you try me?
 
-Do the work... so you can gorge yourself with tasty, high-calorie, pie.
+What's the worst that can happen?
 
-If you too are on such a mad man’s quest, then it could prove fruitful for us to talk - and who knows, maybe even do things together.
+It's the Internet after all. It's not like people can't be trusted, right? Right?
 
-If this resonates, don’t hesitate, get in touch.
+Oh well, I rest my case.
+
+You know where to find me. You can also check out what other people have said about me - if you can trust that I haven't tampered with the evidence.
+
+OK I'm stopping now.
+
+End of page.
