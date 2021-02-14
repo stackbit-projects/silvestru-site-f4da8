@@ -111,7 +111,7 @@ sections:
         url: /style-guide
         style: primary
     grid_items:
-      - title: Gustav Purpleson
+      - title: urtsevliS
         subtitle: Co-Founder & CEO
         title_align: center
         image: images/devilish.png
