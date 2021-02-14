@@ -32,12 +32,17 @@ sections:
     title: Testimonials
     subtitle: People I have conned into giving me money
     grid_items:
-      - content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus.
+      - content: >
+          I'm not going to weigh in on the controversy here, but I would like to
+          put in a good word for Silvestru. I hired him last month for a VSL
+          project and I'm very pleased with the results. Not only did he deliver
+          exactly what I asked, he also came through with recommendations on how
+          to improve the product to maximize conversions. He's a talented dude
+          who follows through on promises, communicates regularly and delivers
+          on time. I'm looking forward to our next project together.
 
 
-          **Hanson Deck,** *App Developer, Studio*
+          **Jason Keith,** *CEO, Patriot Publications*
         image: images/jason.jpg
         image_alt: Jason Keith
         image_position: left
