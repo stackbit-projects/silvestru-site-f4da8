@@ -41,7 +41,7 @@ header:
       style: primary
   has_anncmnt: true
   anncmnt_content: |
-    This website may contain cookies. Yum!
+    This website may contain cookies and is not gluten-free. Yum!
   anncmnt_align: left
   anncmnt_is_home_only: true
   anncmnt_has_close: true
