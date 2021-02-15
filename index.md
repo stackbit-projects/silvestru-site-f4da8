@@ -121,7 +121,7 @@ sections:
         title_align: center
         image: images/regular.png
         image_position: top
-      - title: Hugh Saturation
+      - title: Jack Daniels
         subtitle: Developer Advocate
         title_align: center
         image: images/hugh-saturation.jpg
