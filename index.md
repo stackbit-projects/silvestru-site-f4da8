@@ -122,7 +122,7 @@ sections:
         image: images/regular.png
         image_position: top
       - title: Jack Daniels
-        subtitle: Developer Advocate
+        subtitle: Creative Director
         title_align: center
         image: images/hugh-saturation.jpg
         image_position: top
