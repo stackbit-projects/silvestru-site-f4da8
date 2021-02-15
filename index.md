@@ -107,7 +107,7 @@ sections:
   - type: grid_section
     title: Meet the Team!
     actions:
-      - label: Join the team
+      - label: Hire these guys NOW!
         url: /style-guide
         style: primary
     grid_items:
