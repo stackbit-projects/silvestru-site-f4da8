@@ -90,10 +90,8 @@ sections:
     background_color: secondary
   - type: cta_section
     title: 'Surely, this level of cockiness has some substance behind?'
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-      fringilla, fringilla.
+    content: |
+      I was afraid you'd ask that. Just check out my portfolio.
     actions:
       - label: Learn More
         url: /features
