@@ -207,6 +207,10 @@ figcaption {
 	text-align: left;
 }
 
+hero__media {
+    margin-bottom: 0;
+}
+
 @include media-breakpoint-down(sm) {
 	h1 {
 		font-size: 2.22222em;
