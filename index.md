@@ -124,7 +124,7 @@ sections:
       - title: '''Pty Frøidge'
         subtitle: Creative Director
         title_align: center
-        image: images/ty_fridge.png
+        image: images/ty_friddge.png
         image_position: top
       - title: St. Silvestru
         subtitle: Public Relations
