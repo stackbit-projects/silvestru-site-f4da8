@@ -127,7 +127,7 @@ sections:
         image: images/jacky.png
         image_position: top
       - title: St. Silvestru
-        subtitle: Operations Manager
+        subtitle: Public Relations
         title_align: center
         image: images/hilary-ouse.jpg
         image_position: top
