@@ -129,7 +129,7 @@ sections:
       - title: St. Silvestru
         subtitle: Public Relations
         title_align: center
-        image: images/hilary-ouse.jpg
+        image: images/angel.png
         image_position: top
     grid_cols: four
     align: center
