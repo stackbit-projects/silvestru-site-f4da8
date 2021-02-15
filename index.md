@@ -89,7 +89,7 @@ sections:
     align: center
     background_color: secondary
   - type: cta_section
-    title: Surely this level of cockiness has some substance behind it?
+    title: Surely this level of cockiness can't be entirely unsubstantiated?
     content: |
       I was afraid you'd ask that. Just check out my portfolio.
     actions:
