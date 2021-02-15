@@ -93,7 +93,7 @@ sections:
     content: |
       I was afraid you'd ask that. Just check out my portfolio.
     actions:
-      - label: Learn More
+      - label: See portfolio
         url: /features
         style: secondary
     actions_position: right
