@@ -126,7 +126,7 @@ sections:
         title_align: center
         image: images/jacky.png
         image_position: top
-      - title: Hilary Ouse
+      - title: St. Silvestru
         subtitle: Operations Manager
         title_align: center
         image: images/hilary-ouse.jpg
