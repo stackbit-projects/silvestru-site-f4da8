@@ -40,9 +40,8 @@ header:
       url: /pricing
       style: primary
   has_anncmnt: true
-  anncmnt_content: >-
-    Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn
-    More](/pricing/)**
+  anncmnt_content: |
+    This website may contain cookies. Yum!
   anncmnt_align: left
   anncmnt_is_home_only: true
   anncmnt_has_close: true
