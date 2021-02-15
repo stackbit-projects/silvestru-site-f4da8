@@ -132,6 +132,5 @@ sections:
     grid_cols: four
     align: center
     background_color: secondary
-  - 
 layout: advanced
 ---
