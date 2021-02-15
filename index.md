@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This website is designed to squeeze you of your money
+    title: This website is designed to squeeze you out of your money
     subtitle: Did you expect anything less from a copywriter?
     content: >
       If you want the civilized version it's that...
