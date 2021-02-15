@@ -124,7 +124,7 @@ sections:
       - title: Jack Daniels
         subtitle: Creative Director
         title_align: center
-        image: images/hugh-saturation.jpg
+        image: images/jacky.png
         image_position: top
       - title: Hilary Ouse
         subtitle: Operations Manager
