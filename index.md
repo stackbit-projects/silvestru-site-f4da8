@@ -121,7 +121,7 @@ sections:
         title_align: center
         image: images/regular.png
         image_position: top
-      - title: Jack Daniels
+      - title: Ty Friddge
         subtitle: Creative Director
         title_align: center
         image: images/ty_fridge.png
