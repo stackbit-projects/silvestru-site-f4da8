@@ -91,7 +91,7 @@ sections:
   - type: cta_section
     title: Surely this level of cockiness can't be entirely unsubstantiated?
     content: |
-      I was afraid you'd ask that. Just check out my portfolio.
+      I was afraid you'd ask that.
     actions:
       - label: See portfolio
         url: /features
