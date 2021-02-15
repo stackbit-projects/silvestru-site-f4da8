@@ -116,7 +116,7 @@ sections:
         title_align: center
         image: images/regular.png
         image_position: top
-      - title: '''Pty Frøidge'
+      - title: Emma Pty Frøidge
         subtitle: Creative Director
         title_align: center
         image: images/ty_friddge.png
