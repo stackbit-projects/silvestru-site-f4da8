@@ -27,7 +27,7 @@ Her decrepit arthritic 70 year old husband came up to me one day and said
 
 *"What da ya reckon laddy, will you give me a wash too?"*
 
-*"Well Sir, if the price is right 😉"* I told him in my best American huckster tone, as I proceeded to vomit a little on the inside.
+*"Well Sir, if the price is right  😉 "* I told him in my best American huckster tone, as I proceeded to vomit a little on the inside.
 
 So... if you've got a project, why don't you try me?
 
