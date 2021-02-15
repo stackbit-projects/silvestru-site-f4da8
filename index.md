@@ -124,7 +124,7 @@ sections:
       - title: Jack Daniels
         subtitle: Creative Director
         title_align: center
-        image: images/jacky.png
+        image: images/ty_fridge.png
         image_position: top
       - title: St. Silvestru
         subtitle: Public Relations
