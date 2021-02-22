@@ -54,7 +54,7 @@ sections:
         image_alt: Happy co-workers
         media_position: right
         media_width: fifty
-      - title: Sales Pages
+      - title: Sales & Landing Pages
         subtitle: Pages that have sales on them
         content: >
           Technically, "everything" is a sales page. In practice however, these
