@@ -28,7 +28,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Testimonials
-    subtitle: People I have somehow talked into giving me money
+    subtitle: Cool people I have worked with
     grid_items:
       - content: >
           "I'm not going to weigh in on the controversy here, but I would like
