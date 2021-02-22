@@ -10,7 +10,7 @@ sections:
 
 
       Then click either of these *cool* looking buttons. I'm partial to the
-      ebony one myself - it simply oozes *class*.
+      ebony one myself - it simply oozes... *class*.
     actions:
       - label: View Services
         url: /services
