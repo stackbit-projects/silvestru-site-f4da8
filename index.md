@@ -5,11 +5,11 @@ sections:
     title: This website is designed to manipulate the sh*t out of you
     subtitle: 'I''m a copywriter, it''s my job - give me money.'
     content: >
-      **I write marketing materials and content that stands out, gets you
-      remembered and - most importantly - gets you the sale.**
+      **But if you need help with marketing materials and content that stands
+      out, gets you remembered and - most importantly - gets you the sale...**
 
 
-      Interested? There's 2 ways to proceed: my way or the highway.
+      Why not click any of these *cool* looking buttons?
     actions:
       - label: View Services
         url: /services
