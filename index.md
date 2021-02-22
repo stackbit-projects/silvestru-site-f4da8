@@ -7,7 +7,7 @@ sections:
     content: >
       **But if you need a civil reason to do so ... I write marketing materials
       and content that stands out, gets you remembered and - most importantly -
-      gets you the sale?**
+      gets you the sale**
 
 
       Interested? Click either of these *cool* looking buttons. I'm partial to
