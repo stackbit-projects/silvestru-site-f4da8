@@ -16,7 +16,8 @@ sections:
           what happens to 99% of those emails?
 
 
-          Spam. Trash. "Please stop emailing me". Or simply ignored.
+          Spam. Trash. "Please stop emailing me I will call the cops". Or the
+          most painful one - ignored.
 
 
           The way to get a decision-maker's attention and their reply is not by
