@@ -67,7 +67,8 @@ sections:
           product, its benefits, answering objections -- all structured in a way
           that keeps them hooked and engaged so that when they check Facebook or
           what their dog is doing on their home webcam, they come back to resume
-          reading all about your enticing offer.
+          reading all about your enticing offer. And of course, eventually they
+          will click the CTA.
         actions: []
         image_alt: lorem-ipsum
         video_embed_html: ''
