@@ -9,7 +9,7 @@ sections:
       out, gets you remembered and - most importantly - gets you the sale...**
 
 
-      Why not click any of these *cool* looking buttons? I'm partial to the
+      Then click either of these *cool* looking buttons. I'm partial to the
       ebony one myself.
     actions:
       - label: View Services
