@@ -5,12 +5,13 @@ sections:
     title: I want your money
     subtitle: I'm a copywriter and I cannot lie
     content: >
-      **Need help with marketing materials and content that stands out, gets you
-      remembered and - most importantly - gets you the sale?**
+      **But if you need a civil reason to do so ... I write marketing materials
+      and content that stands out, gets you remembered and - most importantly -
+      gets you the sale?**
 
 
-      Then click either of these *cool* looking buttons. I'm partial to the
-      ebony one myself - it simply oozes... *class*.
+      Interested? Click either of these *cool* looking buttons. I'm partial to
+      the ebony one myself - it simply oozes... *class*.
     actions:
       - label: View Services
         url: /services
