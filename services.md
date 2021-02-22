@@ -36,8 +36,8 @@ sections:
           campaign efficiently?**
 
 
-          Have no fear, Silvestru "Hot Emails Copywriter" is here! (Jesus we're
-          really scraping the barrel here)
+          Have no fear, Silvestru "Hot Emails Copywriter" is here! (Jesus I'm
+          really scraping the bottom of the barrel here)
         video_embed_html: ''
         media_position: left
         media_width: fifty
