@@ -42,7 +42,7 @@ sections:
         media_width: fifty
         image: images/terrific-sloth.jpg
       - title: '"HaHAHahaHAaaaa what is this pill u gave me????"'
-        subtitle: 'Though seriously, I wouldn''t recommend it.'
+        subtitle: 'Disclaimer: I have some work ethic... kinda.'
         content: >
           I tried the Don Draper thing for a while. It was fun until it wasn't.
           Now I do all my work sober. If I hate the project (or you) so much
