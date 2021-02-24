@@ -7,7 +7,6 @@ sections:
     align: center
     padding_top: large
     padding_bottom: small
-  - 
   - type: grid_section
     title: 'You asked, we answered!'
     grid_items:
