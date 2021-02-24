@@ -37,7 +37,7 @@ sections:
           (1)](https://www.wearecatalyst.co.uk/blog/5-simple-hacks-to-increase-your-conversion-rate-today)
           / [blog post
           (2)](https://www.wearecatalyst.co.uk/blog/4-major-shifts-in-the-b2b-sales-process-and-how-you-can-adapt)
-      - title: Viverra nam libero justo laoreet sit?
+      - title: Case Study
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
           posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
