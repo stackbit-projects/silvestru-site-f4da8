@@ -19,7 +19,7 @@ header:
     - label: Services
       url: /services
       style: link
-    - label: Pricing
+    - label: Portfolio
       url: /pricing
       style: link
     - label: About
