@@ -39,7 +39,7 @@ sections:
           (2)](https://www.wearecatalyst.co.uk/blog/4-major-shifts-in-the-b2b-sales-process-and-how-you-can-adapt)
       - title: Case Study
         content: >
-          **Product: **OpenLM is an engineering license management tool
+          **Product:** OpenLM is an engineering license management tool
 
 
           **Audience:** CTOs, companies looking to manage their license servers
