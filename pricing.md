@@ -72,5 +72,6 @@ sections:
     padding_bottom: medium
     has_border: false
     background_color: secondary
+    subtitle: 'Just examples, you needs might vary'
 layout: advanced
 ---
