@@ -60,7 +60,7 @@ sections:
           **Product**: software tool that helps managers with day-to-day tasks
 
 
-          **Audience:** managers
+          **Audience:** managers at 25+ companies
 
 
           **Link:** [Google
