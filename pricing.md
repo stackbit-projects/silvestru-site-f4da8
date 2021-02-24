@@ -11,10 +11,16 @@ sections:
     title: 'You asked, we answered!'
     grid_items:
       - title: B2B Emails
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          **Product:** smart power meters
+
+
+          **Audience:** building automation engineers and companies that provide
+          building automation solutions
+
+
+          **Link:** [Google
+          Drive](https://drive.google.com/drive/folders/1pfXfEkw9ZkROCCX0H53TmvH80NOY5C2L?usp=sharing) 
       - title: Sagittis vitae et leo duis ut diam?
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
