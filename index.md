@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: I want your money
+    title: This website is designed to squeeze you out of your money
     subtitle: I'm a copywriter and I cannot lie
     content: >
       **But if you need a civil reason to do so ... I write marketing materials
