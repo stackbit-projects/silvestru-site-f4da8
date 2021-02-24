@@ -25,10 +25,18 @@ sections:
           **Link:** [Google
           Drive](https://drive.google.com/drive/folders/1pfXfEkw9ZkROCCX0H53TmvH80NOY5C2L?usp=sharing)
       - title: Content Marketing
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          **Service:** marketing services (agency)
+
+
+          **Audience:** small-to-medium business owners in the UK looking for
+          help with marketing
+
+
+          **Link:** [blog post
+          (1)](https://www.wearecatalyst.co.uk/blog/5-simple-hacks-to-increase-your-conversion-rate-today)
+          / [blog post
+          (2)](https://www.wearecatalyst.co.uk/blog/4-major-shifts-in-the-b2b-sales-process-and-how-you-can-adapt)
       - title: Viverra nam libero justo laoreet sit?
         content: >-
           In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
