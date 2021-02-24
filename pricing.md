@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Portfolio
-    subtitle: Optional hero section subtitle
+    subtitle: Work I've done
     align: center
     padding_top: large
     padding_bottom: small
