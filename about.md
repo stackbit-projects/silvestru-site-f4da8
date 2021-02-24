@@ -51,6 +51,6 @@ And the "make your advertising useful" part?
 
 People were calling for my services 2 months after the initial mail out - they were saving the flyers… and even thanking me in some cases!
 
-So hopefully now you see what I mean by "doing the work".
+So hopefully now you see what I mean by "doing a good job".
 
 Now if this little story has shed some light on my character and what I'm about - and you’re interested in working together - why don’t you send me a message?
