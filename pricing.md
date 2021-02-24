@@ -57,10 +57,15 @@ sections:
           **Link:** [Google
           Drive](https://drive.google.com/file/d/18DUpFuj-BcD8QQVDg6reB407HnEMB\_5b/view?usp=sharing)
       - title: B2B Sales Letters
-        content: >-
-          Facilisis gravida neque convallis a cras semper auctor neque vitae.
-          Dictum varius duis at consectetur lorem donec massa. Porta non
-          pulvinar neque laoreet suspendisse interdum consectetur libero.
+        content: >
+          **Product**: software tool that helps managers with day-to-day tasks
+
+
+          **Audience:** managers
+
+
+          **Link:** [Google
+          Drive](https://docs.google.com/document/d/1bjorAKbofGME4VbQx7PzJrUndgSNNZeHfettzicbwUc/edit?usp=sharing)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
