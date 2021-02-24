@@ -20,7 +20,7 @@ header:
       url: /services
       style: link
     - label: Portfolio
-      url: /pricing
+      url: /portfolio
       style: link
     - label: About
       url: /about
