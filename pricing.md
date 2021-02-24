@@ -15,11 +15,8 @@ sections:
           **Product:** smart power meters
 
 
-          **Audience:** building automation engineers and companies that provide
-          building automation solutions
-
-
-          **Decision-maker (whom it speaks to):** sales managers and CTOs
+          **Audience:** building automation engineers, sales people and CTOs of
+          companies that provide building automation solutions
 
 
           **Link:** [Google
