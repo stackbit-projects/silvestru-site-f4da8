@@ -38,12 +38,16 @@ sections:
           / [blog post
           (2)](https://www.wearecatalyst.co.uk/blog/4-major-shifts-in-the-b2b-sales-process-and-how-you-can-adapt)
       - title: Case Study
-        content: >-
-          In tellus integer feugiat scelerisque. Aliquam eleifend mi in nulla
-          posuere. Bibendum neque egestas congue quisque egestas. Mauris sit
-          amet massa vitae tortor condimentum lacinia. Tortor at auctor urna
-          nunc id cursus metus aliquam eleifend. Sed nisi lacus sed viverra
-          tellus. Non enim praesent elementum facilisis.
+        content: >
+          **Product: **OpenLM is an engineering license management tool
+
+
+          **Audience:** CTOs, companies looking to manage their license servers
+          and keep a check on their engineering license spending
+
+
+          **Link:** [Google
+          Drive](https://drive.google.com/file/d/1kmspnfWxU7lvc2yzKJtehLOTtiZoRfrb/view?usp=sharing)
       - title: Cras tincidunt lobortis feugiat vivamus at augue eget arcu?
         content: >-
           Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
