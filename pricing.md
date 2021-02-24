@@ -49,11 +49,16 @@ sections:
           **Link:** [Google
           Drive](https://drive.google.com/file/d/1kmspnfWxU7lvc2yzKJtehLOTtiZoRfrb/view?usp=sharing)
       - title: B2C Long-form Facebook Ad
-        content: >-
-          Blandit aliquam etiam erat velit. In massa tempor nec feugiat.
-          Volutpat maecenas volutpat blandit aliquam. Sem integer vitae justo
-          eget magna fermentum iaculis. Amet est placerat in egestas erat
-          imperdiet sed euismod nisi. Facilisi morbi tempus iaculis urna.
+        content: >
+          **Product:** an eco and child-friendly washing solution based on
+          natural ingredients
+
+
+          **Audience:** mothers, families with children
+
+
+          **Link:** [Google
+          Drive](https://drive.google.com/file/d/18DUpFuj-BcD8QQVDg6reB407HnEMB\_5b/view?usp=sharing)
       - title: Porta nibh venenatis cras sed felis eget velit aliquet?
         content: >-
           Facilisis gravida neque convallis a cras semper auctor neque vitae.
