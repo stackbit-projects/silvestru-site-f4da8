@@ -8,7 +8,7 @@ sections:
     padding_top: large
     padding_bottom: small
   - type: grid_section
-    title: 'You asked, we answered!'
+    title: Various types of copy
     grid_items:
       - title: B2B Emails
         content: >
