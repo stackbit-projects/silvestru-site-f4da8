@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Portfolio
 sections:
   - type: hero_section
     title: Portfolio
