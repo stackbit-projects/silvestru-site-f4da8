@@ -16,14 +16,14 @@ header:
   logo_alt: DIY logo
   has_primary_nav: true
   primary_nav_links:
+    - label: About
+      url: /about
+      style: link
     - label: Services
       url: /services
       style: link
     - label: Portfolio
       url: /portfolio
-      style: link
-    - label: About
-      url: /about
       style: link
     - label: Blog
       url: /blog
