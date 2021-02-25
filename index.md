@@ -92,7 +92,7 @@ sections:
       I was afraid you'd ask that.
     actions:
       - label: See portfolio
-        url: /features
+        url: /portfolio
         style: secondary
     actions_position: right
     actions_width: fourty
