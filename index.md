@@ -104,7 +104,7 @@ sections:
     title: Meet the Team!
     actions:
       - label: Hire these guys NOW!
-        url: /style-guide
+        url: /contact
         style: primary
     grid_items:
       - title: urtsevliS Guzquxab
