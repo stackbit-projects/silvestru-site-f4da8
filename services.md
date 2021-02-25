@@ -32,12 +32,12 @@ sections:
         content: >
           Do you have an email list with subscribers? Do you know what to send
           them? Do you have a proven structure for email campaigns? Are your
-          emails getting sent and acted upon? Are you worried about
-          unsubscribes?
+          emails getting opened and acted upon? Or are they ignored, or worse
+          even - unsubscribed?
 
 
           Having the right strategy coupled with strong copy is a sure way to
-          milk the udder that is email marketing.
+          milk the very profitable udder of email marketing.
         video_embed_html: ''
         media_position: left
         media_width: fifty
