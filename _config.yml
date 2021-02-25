@@ -11,7 +11,7 @@ palette: green
 mode: light
 base_font: serif
 header:
-  title: B2B Copywriter
+  title: Sales Copywriter
   logo: images/logo_big.png
   logo_alt: DIY logo
   has_primary_nav: true
