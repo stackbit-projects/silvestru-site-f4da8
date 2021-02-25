@@ -23,7 +23,7 @@ sections:
           The way to get a decision-maker's attention and their reply is not by
           doing what everyone else is doing. There is a better way to get your
           foot in the door (ask me).
-        image: images/about-3.jpg
+        image: images/fut_in_door.jpg
         image_alt: Foot in door wearing fuzzy slippers
         media_position: right
         media_width: fifty
