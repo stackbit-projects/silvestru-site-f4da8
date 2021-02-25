@@ -30,13 +30,13 @@ sections:
       - title: Hot emails
         subtitle: 'Reward you subscribers with warm, apple pie'
         content: >
-          Do you have an email list? **Do you know what to send? Do you know why
-          are they not reading/acting on what you send them? Are you worried
-          about unsubscribes? Do you have a proven structure for email
-          campaigns?**
+          Do you have an email list with subscribers? Do you know what to send
+          them? Do you have a proven structure for email campaigns? Are your
+          emails getting sent and acted upon? Are you worried about
+          unsubscribes?
 
 
-          Yep, you guessed it, that's something I also do.
+          Emails are also something I provide.
         video_embed_html: ''
         media_position: left
         media_width: fifty
