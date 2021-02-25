@@ -3,7 +3,7 @@ title: Features
 sections:
   - type: hero_section
     title: Services
-    subtitle: Convenient ways for me to take (your) money
+    subtitle: Helping you take your prospects attention & money
     background_color: primary
   - type: features_section
     features:
