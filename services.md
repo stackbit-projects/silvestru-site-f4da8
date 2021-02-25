@@ -30,14 +30,13 @@ sections:
       - title: Hot emails
         subtitle: Have a subscriber base? Give them apple pie
         content: >
-          Do you have an email list but ask yourself questions such as: **what
-          do I send them? why are they not reading/acting on what I send them?
-          will they not unsubscribe after this one? how do I structure an email
-          campaign efficiently?**
+          Do you have an email list? **Do you know what to send? Do you know why
+          are they not reading/acting on what you send them? Are you worried
+          about unsubscribes? Do you have a proven structure for email
+          campaigns?**
 
 
-          Have no fear, Silvestru "Hot Emails Copywriter" is here! (Jesus I'm
-          really scraping the bottom of the barrel here)
+          Yep, you guessed it, that's something I also do.
         video_embed_html: ''
         media_position: left
         media_width: fifty
