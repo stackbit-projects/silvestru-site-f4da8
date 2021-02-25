@@ -28,7 +28,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Hot emails
-        subtitle: Already have a subscriber base? Give 'em hotcakes
+        subtitle: Have a subscriber base? Give them apple pie
         content: >
           Do you have an email list but ask yourself questions such as: **what
           do I send them? why are they not reading/acting on what I send them?
