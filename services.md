@@ -36,7 +36,8 @@ sections:
           unsubscribes?
 
 
-          Emails are also something I provide.
+          Having the right strategy coupled with strong copy is a sure way to
+          milk the udder that is email marketing.
         video_embed_html: ''
         media_position: left
         media_width: fifty
