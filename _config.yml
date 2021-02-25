@@ -37,7 +37,7 @@ header:
       url: /contact
       style: link
     - label: Give Me Money
-      url: /pricing
+      url: /contact
       style: primary
   has_anncmnt: true
   anncmnt_content: |
