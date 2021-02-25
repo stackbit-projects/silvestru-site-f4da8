@@ -28,7 +28,7 @@ sections:
         media_position: right
         media_width: fifty
       - title: Hot emails
-        subtitle: Have a subscriber base? Give them apple pie
+        subtitle: 'Reward you subscribers with warm, apple pie'
         content: >
           Do you have an email list? **Do you know what to send? Do you know why
           are they not reading/acting on what you send them? Are you worried
