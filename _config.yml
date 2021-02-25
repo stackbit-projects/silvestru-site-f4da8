@@ -34,8 +34,9 @@ header:
       url: /contact
       style: primary
   has_anncmnt: true
-  anncmnt_content: |
-    This website may contain cookies and is not gluten-free. Yum!
+  anncmnt_content: >
+    This website may contain cookies and traces of egg, nutmeg and awesomeness.
+    Yum!
   anncmnt_align: left
   anncmnt_is_home_only: true
   anncmnt_has_close: true
