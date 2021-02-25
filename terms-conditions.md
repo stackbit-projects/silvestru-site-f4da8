@@ -2,8 +2,6 @@
 title: Terms & Conditions
 layout: page
 ---
-## **Terms and Conditions**
-
 Welcome to Silvestru - Copywriter!
 
 These terms and conditions outline the rules and regulations for the use of Silvestru Iapascurta's Website, located at http://silvest.ru.
