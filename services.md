@@ -41,7 +41,7 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fifty
-        image: images/terrific-sloth.jpg
+        image: images/american-pie.jpg
       - title: '"HaHAHahaHAaaaa what is this pill u gave me????"'
         subtitle: 'Lorem ispum dolor sit amet, I can do almost anything'
         content: >
