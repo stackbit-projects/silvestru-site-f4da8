@@ -64,7 +64,7 @@ sections:
 
           **Link:** [Google
           Drive](https://docs.google.com/document/d/1bjorAKbofGME4VbQx7PzJrUndgSNNZeHfettzicbwUc/edit?usp=sharing)
-- title: B2B Sales Letter
+    - title: B2B Sales Letter
         content: >
           **Product**: software tool that helps managers with day-to-day tasks
 
