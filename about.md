@@ -11,7 +11,7 @@ But I'd rather you judge me by my actions than my words.
 
 Quite the pickle - I know - seeing that I'm a copywriter...
 
-Ah alright
+Well, alright.
 
 You want values and principles?
 
@@ -67,7 +67,7 @@ And I discovered quite accidentally - that those tips attracted people who had e
 
 So in a way, I found a niche in this quite competitive market.
 
-The cleaning situation lasted for about 2 months. 
+The cleaning situation lasted for about 2 months.
 
 It got me out of my head and into my body and I had enough to pay my rent and buy some Reese's at the end of the day.
 
