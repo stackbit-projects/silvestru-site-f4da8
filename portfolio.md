@@ -53,7 +53,7 @@ sections:
           **Audience:** mothers, families with children
 
 
-          **Link: **[Imgur](https://imgur.com/a/0LLuKcm)
+          **Link:** [Imgur](https://imgur.com/a/0LLuKcm)
       - title: B2B Sales Letter
         content: >
           **Product**: software tool that helps managers with day-to-day tasks
