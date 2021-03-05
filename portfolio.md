@@ -64,8 +64,17 @@ sections:
 
           **Link:** [Google
           Drive](https://docs.google.com/document/d/1bjorAKbofGME4VbQx7PzJrUndgSNNZeHfettzicbwUc/edit?usp=sharing)
+- title: B2B Sales Letter
+        content: >
+          **Product**: software tool that helps managers with day-to-day tasks
 
-          
+
+          **Audience:** managers and management staff at 30+ employee companies
+
+
+          **Link:** [Google
+          Drive](https://docs.google.com/document/d/1bjorAKbofGME4VbQx7PzJrUndgSNNZeHfettzicbwUc/edit?usp=sharing)
+
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
