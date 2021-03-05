@@ -7,13 +7,19 @@ If you’re looking for a grand mission statement like “making the world a bet
 
 Although those may be noble goals, they are just words.
 
-But beyond words lies our actions - our work.
+But I'd rather you judge me by my actions than my words.
 
-What I’m interested in, and I hope that you are as well, is **doing the work and doing it well**.
+Quite the pickle - I know - seeing that I'm a copywriter...
 
-Doing it in such a way that people remember you.
+Ah alright
 
-Going the whole hog, including the postage.
+You want values and principles?
+
+**Do the work and do it well**.
+
+Do it so that people remember you.
+
+> Go the whole hog, including the postage.
 
 Short story to illustrate my point:
 
@@ -25,32 +31,50 @@ For some reason, and probably because my desperation was palpable - I could not 
 
 I sulked for a couple of days but then the idea of doing handy work - like cleaning houses - kicked in.
 
-Now London is a competitive city - so even cleaning jobs had people fighting for them! And how do you choose from 100 cleaners in your area who jam the same dull, old, boring “cleaning services” flyer in your inbox?
+Now London is a competitive city - so even cleaning jobs have people fighting for them.
+
+Did I stand a chance if I went toe-to-toe with the cleaning miss Martas and Ralucas of the world?
+
+Unlikely.
+
+Not if I went the direct route.
+
+Nobody wants to see the 101th "cleaning services" flyer in their already jammed mail box.
 
 I thought this through and decided - nay, I was forced - to take matters into my own hands.
 
-I printed out 1000 flyers. But there was a twist:
+So I did print out 1000 flyers.
 
-On the reverse I put a list of actionable tips: “7 ways to clean your house without harsh chemicals”.
+But there was a twist:
 
-Doing this I hoped to improve the chances of it not being thrown away just like any other piece of junk mail.
+I wanted them to remember it and I wanted them to **hold on to it**.
 
-If you make your advertising useful, people will keep it and remember you for it.
+How?
 
-Did it work?
+On the reverse, I put a list of actionable tips: “*7 ways to clean your house without harsh chemicals*”.
 
-It did.
+One thing I learned is that if you make your advertising useful, people will keep it and remember you for it.
 
-I rubbed and I scrubbed and God was I tired... but I had enough work to stay afloat for a while - without competing with anyone or waiting for someone to give me a hand-out.
+And remember me they did.
 
-Another benefit - which happened quite accidentally - was that those tips attracted people who had either allergies or were wary of using regular cleaning products.
+I started getting calls, slowly at first.
 
-So in a way, it was like finding a niche in this competitive market.
+But as I started doing more jobs, weeks and even months later - I was still getting new calls!
 
-And the "make your advertising useful" part?
+People thanked me for the information and asked me if I could help them with their cleaning errands.
 
-People were calling for my services 2 months after the initial mail out - they were saving the flyers… and even thanking me in some cases!
+And I discovered quite accidentally - that those tips attracted people who had either allergies or were wary of using regular cleaning products.
 
-So hopefully now you see what I mean by "doing a good job".
+So in a way, I found a niche in this quite competitive market.
 
-Now if this little story has shed some light on my character and what I'm about - and you’re interested in working together - why don’t you send me a message?
+The cleaning situation lasted for about 2 months. 
+
+It got me out of my head and into my body and I had enough to pay my rent and buy some Reese's at the end of the day.
+
+Lesson learned.
+
+Now, do **you** want a job done well?
+
+While I may not clean houses anymore, I sure can help you clean the profits, dollars and cents that are laying about in your lists and current customers.
+
+[Holla at your boy](/contact).
