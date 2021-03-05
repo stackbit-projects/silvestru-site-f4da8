@@ -50,7 +50,7 @@ sections:
           that I have to imbibe substances to "get in the flow" we probably
           won't work together. Not being elitist, just putting it out there.
           Note to self: this might be an admission that I do have *some* values.
-        image: images/about-1.jpg
+        image: images/website_review_conversion.jpg
         image_alt: Copy & CRO Review
         media_position: right
         media_width: fifty
