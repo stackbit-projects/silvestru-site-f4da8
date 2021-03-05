@@ -66,14 +66,14 @@ sections:
           Drive](https://docs.google.com/document/d/1bjorAKbofGME4VbQx7PzJrUndgSNNZeHfettzicbwUc/edit?usp=sharing)
       - title: B2C Sales Letter
         content: >
-          **Product**: software tool that helps managers with day-to-day tasks
+          **Product**: air-to-water condenser
 
 
-          **Audience:** managers and management staff at 30+ employee companies
+          **Audience:** survivalist/preppers, mostly men, 40+ years old
 
 
           **Link:** [Google
-          Drive](https://docs.google.com/document/d/1bjorAKbofGME4VbQx7PzJrUndgSNNZeHfettzicbwUc/edit?usp=sharing)
+          Drive](https://drive.google.com/file/d/1yozq6ty1BqIE7GXPYonrqaln0JE-IkJa/view?usp=sharing)
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
