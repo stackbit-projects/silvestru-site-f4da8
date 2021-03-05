@@ -73,8 +73,8 @@ It got me out of my head and into my body and I had enough to pay my rent and bu
 
 Lesson learned.
 
-Now, do **you** want a job done well?
+Now while I may not be cleaning houses anymore...
 
-While I may not clean houses anymore, I sure can help you clean the profits, dollars and cents that are laying about in your lists and current customers.
+If you want a job done well, I sure can help you clean the profits, dollars and cents that are laying about in your lists and current customers through engaging copy.
 
 [Holla at your boy](/contact).
