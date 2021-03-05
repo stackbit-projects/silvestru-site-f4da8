@@ -45,11 +45,18 @@ sections:
       - title: Website copy & CRO review
         subtitle: How efficiently are you converting site traffic into leads?
         content: >
-          I tried the Don Draper thing for a while. It was fun until it wasn't.
-          Now I do all my work sober. If I hate the project (or you) so much
-          that I have to imbibe substances to "get in the flow" we probably
-          won't work together. Not being elitist, just putting it out there.
-          Note to self: this might be an admission that I do have *some* values.
+          It takes less than 5 seconds for a prospect to form an opinion based
+          on your website whether you are someone they want to do business
+          with... or not.
+
+
+          More than that, there are many pages and places on a website that can
+          be used to engineer good will, trust and of course, capture emails and
+          other data for further marketing.
+
+
+          Is your website optimized according to conversion principles? Or do
+          users have to whip out a magnifying glass to get what they need?
         image: images/website_review_conversion.jpg
         image_alt: Copy & CRO Review
         media_position: right
