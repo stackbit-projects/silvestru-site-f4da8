@@ -56,7 +56,8 @@ sections:
 
 
           Is your website optimized according to conversion principles? Or do
-          users have to whip out a magnifying glass to get what they need?
+          users have to whip out a magnifying glass to search for what they
+          need?
         image: images/website_review_conversion.jpg
         image_alt: Copy & CRO Review
         media_position: right
