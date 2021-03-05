@@ -7,7 +7,6 @@ sections:
     padding_top: large
     padding_bottom: small
   - type: grid_section
-    title: Copy samples
     grid_items:
       - title: B2B Emails
         content: >
