@@ -74,7 +74,6 @@ sections:
 
           **Link:** [Google
           Drive](https://docs.google.com/document/d/1bjorAKbofGME4VbQx7PzJrUndgSNNZeHfettzicbwUc/edit?usp=sharing)
-
     grid_cols: two
     grid_gap_horiz: medium
     grid_gap_vert: medium
