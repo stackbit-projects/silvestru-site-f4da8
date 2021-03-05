@@ -63,7 +63,6 @@ sections:
         media_position: right
         media_width: fifty
       - title: Sales & Landing Pages
-        subtitle: Pages that have sales on them
         content: >
           Technically, "everything" is a sales page. In practice however, these
           tend to be the type of pages that are seen by people already somewhat
