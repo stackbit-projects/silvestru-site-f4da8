@@ -75,6 +75,8 @@ Lesson learned.
 
 Now while I may not be cleaning houses anymore...
 
-If you want a job done well, I sure can help you clean the profits, dollars and cents that are laying about in your lists and current customers through engaging copy.
+I sure can help you clean the profits, dollars and cents that are laying about in your lists and current customers through engaging copy.
+
+Need a job done well?
 
 [Holla at your boy](/contact).
