@@ -51,7 +51,7 @@ sections:
           won't work together. Not being elitist, just putting it out there.
           Note to self: this might be an admission that I do have *some* values.
         image: images/about-1.jpg
-        image_alt: Happy co-workers
+        image_alt: Website & Copy Review
         media_position: right
         media_width: fifty
       - title: Sales & Landing Pages
