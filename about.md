@@ -75,7 +75,7 @@ Lesson learned.
 
 Now while I may not be cleaning houses anymore...
 
-I sure can help you clean the profits, dollars and cents that are laying about in your lists and current customers through engaging copy.
+I sure can help you clean the profits, dollars and cents that are laying about in your lists and current customers through engaging copy and sound marketing strategy.
 
 Need a job done well?
 
