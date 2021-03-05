@@ -43,7 +43,7 @@ sections:
         media_width: fifty
         image: images/american-pie.jpg
       - title: Website copy & CRO review
-        subtitle: 'Lorem ispum dolor sit amet, I can do almost anything'
+        subtitle: How efficiently are you converting site traffic into leads?
         content: >
           I tried the Don Draper thing for a while. It was fun until it wasn't.
           Now I do all my work sober. If I hate the project (or you) so much
