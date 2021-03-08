@@ -140,7 +140,7 @@ sections:
 
           2 copy revisions are included free of charge in the initial proposal.
           My only condition is that we both agree on the final version. If you
-          tweak the copy without me knowing, I can't be held accountable for the
+          tweak the copy without discussing, I can't be held accountable for the
           lack of results.
         content_align: left
         actions: []
