@@ -41,7 +41,27 @@ sections:
         video_embed_html: ''
         media_position: left
         media_width: fifty
-        image: images/american-pie.jpg      - 
+        image: images/american-pie.jpg
+      - title: Website copy & CRO review
+        subtitle: How efficiently are you converting site traffic into leads?
+        content: >
+          It takes less than 5 seconds for a prospect to form an opinion based
+          on your website whether you are someone they want to do business
+          with... or not.
+
+
+          More than that, there are many pages and places on a website that can
+          be used to engineer good will, trust and of course, capture emails and
+          other data for further marketing.
+
+
+          Is your website optimized according to conversion principles? Or do
+          users have to whip out a magnifying glass to search for what they
+          need?
+        image: images/website_review_conversion.jpg
+        image_alt: Copy & CRO Review
+        media_position: right
+        media_width: fifty
       - title: Sales & Landing Pages
         content: >
           Technically, "everything" is a sales page. In practice however, these
@@ -56,33 +76,14 @@ sections:
           what their dog is doing on their home webcam, they come back to resume
           reading all about your enticing offer. And of course, eventually they
           will click the CTA.
-        title: Website copy & CRO review
-        subtitle: Are you leaving leads (and money) on the table?
-        content: >
-          It takes less than 2 seconds for a prospect to form an opinion on
-          whether you are someone they want to do business with... or not. All
-          of this thanks to your website.
-
-
-          Moreover, your website is not only an opportunity to build good will
-          and trust but also a way to capture leads, emails and other data for
-          further marketing.
-
-
-          Is your website fully optimized according to CRO principles? Or do
-          users have to whip out a magnifying glass to get to what they need?
-        image: images/website_review_conversion.jpg
-        image_alt: Copy & CRO Review
-        media_position: right
-        media_width: fifty
         actions: []
-        image_alt: Sales Pages and LPs
+        image_alt: lorem-ipsum
         video_embed_html: ''
         media_position: left
         media_width: fifty
         align: left
         type: feature
-        image: images/sales_page.jpg
+        image: images/placeholder.jpg
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
