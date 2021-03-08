@@ -89,10 +89,12 @@ sections:
     grid_items:
       - title: How much do you charge?
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          An arm and a leg! Saw not included.
+
+
+          But seriously, how long is a piece of string? Each project is
+          different so I charge per project rather than per hour.
         content_align: left
         actions: []
         actions_align: left
