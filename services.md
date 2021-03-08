@@ -63,7 +63,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/placeholder.jpg
+        image: images/nervous-giraffe.jpg
       - title: Website copy & CRO review
         subtitle: How efficiently are you converting site traffic into leads?
         content: >
