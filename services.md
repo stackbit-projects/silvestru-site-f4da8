@@ -110,10 +110,38 @@ sections:
         image_has_padding: true
       - title: 'How do you work, what is your process?'
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          1.  You get in touch
+
+
+          2.  We talk (Skype, Zoom, phone)
+
+
+          3.  If we're a good fit, I send you a proposal
+
+
+          4.  If you agree on that and pay, I send you a brief to complete
+
+
+          5.  I wait on you to complete the brief and send it back to me
+
+
+          6.  I write the copy
+
+
+          7.  I send you the copy
+
+
+          8.  You put the copy where it's supposed to be and launch it
+
+
+          9.  Victory dance in our rooms/office/stables
+
+
+          2 copy revisions are included free of charge in the initial proposal.
+          My only condition is that we both agree on the final version. If you
+          tweak the copy without me knowing, I can't be held accountable for the
+          lack of results.
         content_align: left
         actions: []
         actions_align: left
