@@ -48,12 +48,13 @@ sections:
           Technically, "everything" is a sales page. In practice however, these
           tend to be the type of pages that are seen by people already somewhat
           familiar with your company or at least they have clicked on a very
-          enticing banner dangling the carrot. Clever!
+          enticing banner promising a carrot. Clever!
 
 
           But now the real heavy duty begins: presenting your story, your
-          product, its benefits, answering objections -- all structured in a way
-          that keeps them hooked and engaged all the way down to your offer.
+          product, its benefits, answering objections -- all of this structured
+          in a way that keeps them hooked and engaged all the way down to your
+          offer and the call to action.
         actions: []
         image_alt: Sales Pages and LPs
         video_embed_html: ''
