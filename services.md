@@ -32,9 +32,9 @@ sections:
         subtitle: 'Reward you subscribers with warm, apple pie'
         content: >
           Do you have an email list with subscribers? Do you know what to send
-          them? Do you have a proven structure for email campaigns? Are your
-          emails getting opened and acted upon? Or are they ignored, or worse
-          even - unsubscribed?
+          them on a daily and weekly basis? Do you have a proven structure for
+          email campaigns? Are your emails getting opened and acted upon? Or are
+          they ignored, or worse even - unsubscribed?
 
 
           Having the right strategy coupled with strong copy is a sure way to
