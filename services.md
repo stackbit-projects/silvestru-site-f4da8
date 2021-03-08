@@ -43,7 +43,7 @@ sections:
         media_width: fifty
         image: images/american-pie.jpg
       - title: Website copy & CRO review
-        subtitle: How efficiently are you converting site traffic into leads?
+        subtitle: Are you leaving leads (and money) on the table?
         content: >
           It takes less than 5 seconds for a prospect to form an opinion based
           on your website whether you are someone they want to do business
