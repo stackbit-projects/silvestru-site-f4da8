@@ -94,9 +94,8 @@ sections:
 
           But seriously, how long is a piece of string? Each project is
           different - has different challenges and outcomes and thus has a
-          different value. Not only would I rob myself of the chance of making
-          money but also it wouldn't be fair as to **what the solution is worth
-          to you**.
+          different value. Not only could I lose but also it wouldn't be fair to
+          you as to **what the solution is worth to you**. So it varies.
 
 
           That said, if you're a bargain hunter, I'm not your guy.
