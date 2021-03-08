@@ -94,7 +94,9 @@ sections:
 
 
           But seriously, how long is a piece of string? Each project is
-          different so I charge per project rather than per hour.
+          different - has different challenges and thus has a different value.
+          Not only would I rob myself of the chance of making money but also it
+          wouldn't be fair to you as to **what the solution is worth to you**.
         content_align: left
         actions: []
         actions_align: left
