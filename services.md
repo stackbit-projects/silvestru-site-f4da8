@@ -84,8 +84,8 @@ sections:
         media_position: left
         media_width: fifty
   - type: grid_section
-    title: Cards Section
-    subtitle: Grid Section Example
+    title: Common Questions
+    subtitle: People sometimes ask...
     grid_items:
       - title: Section Item 1
         title_align: left
@@ -172,7 +172,7 @@ sections:
     grid_gap_vert: medium
     enable_cards: true
     align: center
-    background_color: none
+    background_color: secondary
   - type: grid_section
     title: Reviews Section
     subtitle: Grid Section Example
