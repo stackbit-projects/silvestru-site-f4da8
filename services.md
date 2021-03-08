@@ -19,7 +19,7 @@ sections:
           Spam. Trash. "Please stop emailing me I will call the cops".
 
 
-          Or just simply (and most painful) - ignored.
+          Or just simply (and the most painful one) - ignored.
 
 
           Want to reverse that trend and start getting calls and meetings? I can
