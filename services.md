@@ -94,9 +94,14 @@ sections:
 
 
           But seriously, how long is a piece of string? Each project is
-          different - has different challenges and thus has a different value.
-          Not only would I rob myself of the chance of making money but also it
-          wouldn't be fair to you as to **what the solution is worth to you**.
+          different - has different challenges and outcomes and thus has a
+          different value. Not only would I rob myself of the chance of making
+          money but also it wouldn't be fair as to **what the solution is worth
+          to you**.
+
+
+          That said if you're comparing copywriters and are looking for a "$50
+          OFF, ACT NOW!" bargain, I'm not your guy.
         content_align: left
         actions: []
         actions_align: left
