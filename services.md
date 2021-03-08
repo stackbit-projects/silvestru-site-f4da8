@@ -56,6 +56,25 @@ sections:
           what their dog is doing on their home webcam, they come back to resume
           reading all about your enticing offer. And of course, eventually they
           will click the CTA.
+        title: Website copy & CRO review
+        subtitle: Are you leaving leads (and money) on the table?
+        content: >
+          It takes less than 2 seconds for a prospect to form an opinion on
+          whether you are someone they want to do business with... or not. All
+          of this thanks to your website.
+
+
+          Moreover, your website is not only an opportunity to build good will
+          and trust but also a way to capture leads, emails and other data for
+          further marketing.
+
+
+          Is your website fully optimized according to CRO principles? Or do
+          users have to whip out a magnifying glass to get to what they need?
+        image: images/website_review_conversion.jpg
+        image_alt: Copy & CRO Review
+        media_position: right
+        media_width: fifty
         actions: []
         image_alt: Sales Pages and LPs
         video_embed_html: ''
