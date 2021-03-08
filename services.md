@@ -100,8 +100,7 @@ sections:
           to you**.
 
 
-          That said if you're comparing copywriters and are looking for a "$50
-          OFF, ACT NOW!" bargain, I'm not your guy.
+          That said if you're a bargain hunter, I'm not your guy.
         content_align: left
         actions: []
         actions_align: left
