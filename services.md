@@ -157,7 +157,8 @@ sections:
     background_color: secondary
   - type: cta_section
     title: Ready to talk?
-    content: Ut egestas elementum suscipit. Quisque at hendrerit mauris.
+    content: |
+      Tell me about your project and individual needs
     actions:
       - label: Compare Plans
         url: /pricing
