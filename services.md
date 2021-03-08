@@ -160,7 +160,7 @@ sections:
     content: |
       Tell me about your project and individual needs
     actions:
-      - label: Compare Plans
+      - label: Let's talk!
         url: /pricing
         style: primary
     actions_position: right
