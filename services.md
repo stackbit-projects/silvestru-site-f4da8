@@ -42,7 +42,7 @@ sections:
         media_position: left
         media_width: fifty
         image: images/american-pie.jpg
-        - title: Sales & Landing Pages
+      - title: Sales & Landing Pages
         content: >
           Technically, "everything" is a sales page. In practice however, these
           tend to be the type of pages that are seen by people already somewhat
