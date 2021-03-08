@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: This website is designed to squeeze you out of your money
+    title: This website is designed to squeeze you of your money
     subtitle: I'd be a lousy copywriter if I didn't do my best
     content: >
       **Need help with marketing materials and content that stands out, gets you
