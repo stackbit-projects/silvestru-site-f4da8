@@ -3,7 +3,7 @@ title: Services
 sections:
   - type: hero_section
     title: Services
-    subtitle: Helping you capture your prospects attention & money
+    subtitle: Helping you capture your prospects' attention & money
     background_color: primary
   - type: features_section
     features:
