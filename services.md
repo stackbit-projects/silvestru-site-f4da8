@@ -42,27 +42,7 @@ sections:
         media_position: left
         media_width: fifty
         image: images/american-pie.jpg
-      - title: Website copy & CRO review
-        subtitle: How efficiently are you converting site traffic into leads?
-        content: >
-          It takes less than 5 seconds for a prospect to form an opinion based
-          on your website whether you are someone they want to do business
-          with... or not.
-
-
-          More than that, there are many pages and places on a website that can
-          be used to engineer good will, trust and of course, capture emails and
-          other data for further marketing.
-
-
-          Is your website optimized according to conversion principles? Or do
-          users have to whip out a magnifying glass to search for what they
-          need?
-        image: images/website_review_conversion.jpg
-        image_alt: Copy & CRO Review
-        media_position: right
-        media_width: fifty
-      - title: Sales & Landing Pages
+        - title: Sales & Landing Pages
         content: >
           Technically, "everything" is a sales page. In practice however, these
           tend to be the type of pages that are seen by people already somewhat
@@ -84,6 +64,26 @@ sections:
         align: left
         type: feature
         image: images/placeholder.jpg
+      - title: Website copy & CRO review
+        subtitle: How efficiently are you converting site traffic into leads?
+        content: >
+          It takes less than 5 seconds for a prospect to form an opinion based
+          on your website whether you are someone they want to do business
+          with... or not.
+
+
+          More than that, there are many pages and places on a website that can
+          be used to engineer good will, trust and of course, capture emails and
+          other data for further marketing.
+
+
+          Is your website optimized according to conversion principles? Or do
+          users have to whip out a magnifying glass to search for what they
+          need?
+        image: images/website_review_conversion.jpg
+        image_alt: Copy & CRO Review
+        media_position: right
+        media_width: fifty
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
