@@ -9,7 +9,8 @@ sections:
       remembered and - most importantly - gets you the sale?**
 
 
-      Click either of these *cool* looking buttons.
+      Click either of these *cool* looking buttons. I'm partial to the *ebony*
+      one myself.
     actions:
       - label: View Services
         url: /services
