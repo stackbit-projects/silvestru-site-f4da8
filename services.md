@@ -64,7 +64,7 @@ sections:
         type: feature
         image: images/nervous-giraffe.jpg
       - title: Website copy & CRO review
-        subtitle: How efficiently are you converting site traffic into leads?
+        subtitle: How many leads (and money) are you leaving on the table?
         content: >
           It takes less than 2 seconds for a prospect to form an opinion on
           whether you are someone they want to do business with... or not. All
