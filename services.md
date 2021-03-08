@@ -87,7 +87,7 @@ sections:
     title: Common Questions
     subtitle: People sometimes ask...
     grid_items:
-      - title: Section Item 1
+      - title: How much do you charge?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
