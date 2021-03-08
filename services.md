@@ -82,7 +82,7 @@ sections:
         media_width: fifty
         align: left
         type: feature
-        image: images/placeholder.jpg
+        image: images/sales_page.jpg
   - type: grid_section
     title: Cards Section
     subtitle: Grid Section Example
