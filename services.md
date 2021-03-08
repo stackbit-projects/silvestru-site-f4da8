@@ -161,7 +161,7 @@ sections:
       Tell me about your project and individual needs
     actions:
       - label: Let's talk!
-        url: /pricing
+        url: /contact
         style: primary
     actions_position: right
     align: left
