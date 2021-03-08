@@ -90,7 +90,7 @@ sections:
       - title: How much do you charge?
         title_align: left
         content: >
-          An arm and a leg! Saw included for an additional $997.
+          An arm and a leg! Add-on saw for just $997.
 
 
           But seriously, how long is a piece of string? Each project is
