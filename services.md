@@ -45,19 +45,18 @@ sections:
       - title: Website copy & CRO review
         subtitle: Are you leaving leads (and money) on the table?
         content: >
-          It takes less than 5 seconds for a prospect to form an opinion based
-          on your website whether you are someone they want to do business
-          with... or not.
+          It takes less than 2 seconds for a prospect to form an opinion on
+          whether you are someone they want to do business with... or not. All
+          of this thanks to your website.
 
 
-          More than that, there are many pages and places on a website that can
-          be used to engineer good will, trust and of course, capture emails and
-          other data for further marketing.
+          Moreover, your website is not only an opportunity to build good will
+          and trust but also a way to capture leads, emails and other data for
+          further marketing.
 
 
-          Is your website optimized according to conversion principles? Or do
-          users have to whip out a magnifying glass to search for what they
-          need?
+          Is your website fully optimized according to CRO principles? Or do
+          users have to whip out a magnifying glass to get to what they need?
         image: images/website_review_conversion.jpg
         image_alt: Copy & CRO Review
         media_position: right
