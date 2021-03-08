@@ -76,7 +76,7 @@ sections:
           reading all about your enticing offer. And of course, eventually they
           will click the CTA.
         actions: []
-        image_alt: Sales and LP
+        image_alt: Sales Pages and LPs
         video_embed_html: ''
         media_position: left
         media_width: fifty
